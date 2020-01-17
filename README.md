@@ -12,7 +12,7 @@
 
 - 声卡：ALC292
 
-- 无线网卡：DW1820A
+- 无线网卡：DW1820A CN-08PKF4 CN-0VW3T3 CN-00JT494 安装时无需在BIOS中禁用（感谢 @Axelpop ）
 ```
 
 ## BIOS
@@ -29,7 +29,7 @@
 ## 有效
 
 - 睡眠/唤醒
-- Wifi和蓝牙 (DW1820A) CN-08PKF4 CN-0VW3T3 CN-00JT494 （感谢 @Axelpop ）
+- Wifi和蓝牙 
 - Handoff, Continuity, AirDrop
 - iMessage, FaceTime, App Store, iTunes Store
 - 以太网
