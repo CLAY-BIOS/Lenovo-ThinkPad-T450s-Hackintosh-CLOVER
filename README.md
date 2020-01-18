@@ -7,7 +7,7 @@
 ## 硬件信息
 
 ```  
-- CPU：Intel Core i7-5600U | Broadwell
+- CPU：Intel Core i7-5600U 2.6GHz (Boots 3.2GHz)
 
 - 核心显卡：Intel HD 5500 Graphics 
 
@@ -30,10 +30,11 @@
 ## 有效
 
 - 睡眠/唤醒
-- Wifi和蓝牙 
+- Wifi
+- 蓝牙 
 - Handoff, Continuity, AirDrop
 - iMessage, FaceTime, App Store, iTunes Store
-- 以太网
+- 以太网卡
 - 板载音频 (使用alc_fix修复音频)
 - USB
 - 电池
