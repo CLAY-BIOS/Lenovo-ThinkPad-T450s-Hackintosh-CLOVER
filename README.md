@@ -16,16 +16,16 @@
 - 无线网卡：DW1820A CN-08PKF4 CN-0VW3T3 CN-00JT494（感谢 @Axelpop ）
 ```
 
-## BIOS
-- `Security -> Security Chip`: **Disabled**;
-- `Memory Protection -> Execution Prevention`: **Enabled**;
-- `Virtualization -> Intel Virtualization Technology`: **Enabled**;
-- `Internal Device Access -> Bottom Cover Tamper Detection`: must be **Disabled**;
-- `Anti-Theft -> Current Setting`: **Disabled**;
-- `Anti-Theft -> Computrace -> Current Setting`: **Disabled**;
-- `Secure Boot -> Secure Boot`: **Disabled**;
-- `UEFI/Legacy Boot`: **UEFI Only**;
-- `CSM Support`: **Yes**.
+## BIOS (1.37)
+-  Security -> Security Chip`: **Disabled**;
+-  Memory Protection -> Execution Prevention`: **Enabled**;
+-  Virtualization -> Intel Virtualization Technology`: **Enabled**;
+-  Internal Device Access -> Bottom Cover Tamper Detection`: must be **Disabled**;
+-  Anti-Theft -> Current Setting`: **Disabled**;
+-  Anti-Theft -> Computrace -> Current Setting`: **Disabled**;
+-  Secure Boot -> Secure Boot`: **Disabled**;
+-  UEFI/Legacy Boot`: **UEFI Only**;
+-  CSM Support`: **Yes**.
 
 ## 有效
 
