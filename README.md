@@ -3,7 +3,8 @@
 - 这是一个完整的Thinkpad T450s macOS Catalina配置 （基于 @jsassu20 的T450配置）
 - 由于T450s只有一条内存插槽（使用8GB以上内存时板载内存识别不正常）您需要注入内存信息
 - 使用DW1820A时只需将驱动复制到kext 安装系统时无需在BIOS中禁用WIFI
-- 音频问题请执行alc_fix脚本 或者把CodecCommander.kext复制到 L / E 目录重建缓存修复权限
+- 音频问题请执行alc_fix脚本 
+- 如果脚本无效请把CodecCommander.kext复制到 L / E 目录重建缓存修复权限 在重新执行脚本
 ## 硬件信息
 
 ```  
@@ -35,7 +36,7 @@
 - Handoff, Continuity, AirDrop
 - iMessage, FaceTime, App Store, iTunes Store
 - 以太网卡
-- 板载音频 (使用alc_fix或CodecCommander.kext修复音频问题)
+- 板载音频 (使用alc_fix和CodecCommander.kext修复音频问题)
 - USB
 - 电池
 - 触摸屏 (10.14)
