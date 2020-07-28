@@ -3,8 +3,8 @@
 - 这是一个完整的Thinkpad T450s macOS Catalina配置 （基于 @jsassu20 的T450配置）
 - 由于T450s只有一条内存插槽（使用8GB以上内存时板载内存识别不正常）您需要注入内存信息
 - 使用DW1820A时只需将驱动复制到kext 安装系统时无需在BIOS中禁用WIFI
-- 音频问题请把CodecCommander.kext复制到 L / E 目录重建缓存修复权限 在执行修复脚本
-- 由于acidanthera的驱动现在不会在clover中做兼容性测试 可能会导致一些驱动出现问题 解决方法是把出现问题的驱动放入 L / E 目录下（例如：触摸板驱动 VoodooPS2Controller.kext）
+- 音频问题请把CodecCommander.kext复制到 L / E 目录重建缓存修复权限 再执行修复脚本
+- 由于acidanthera的驱动现在不会在CLOVER中做兼容性测试 可能会导致一些驱动出现问题 解决方法是把出现问题的驱动放入 L / E 目录下（例如：触摸板驱动 VoodooPS2Controller.kext）
 -  触摸屏在10.14版本中得到原生支持 10.15则需要把VoodooI2C.kext和VoodooI2CHID.kext放入 L / E目录
     PS ：（10.14以下版本请自行测试）
 ## 硬件信息
