@@ -1,4 +1,6 @@
 # Thinkpad T450s Catalina
+-                          Macos BigSur 现已推出
+- https://github.com/CLAY-BIOS/Lenovo-ThinkPad-T450s-Big-Sur-OpenCore                               
 ## 简介
 - 这是一个完整的Thinkpad T450s macOS Catalina配置 （基于 @jsassu20 的T450配置）
 - 由于T450s只有一条内存插槽（使用8GB以上内存时板载内存识别不正常）您需要注入内存信息
